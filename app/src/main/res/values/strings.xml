@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TestDiplomaApp</string>
+    <string name="hello_world">Coming soon...</string>
+    <string name="action_settings">Settings</string>
+    <string name="date_format">dd/MM/yyyy</string>
+    <string name="title_activity_light">Light Activity</string>
+    <string name="title_activity_gpslocation">GPS Location</string>
+    <string name="title_activity_view__gps_activity">GPS Activity</string>
+    <string name="title_activity_accelerometer">Accelerometer Activity</string>
+    <string name="title_activity_gyroscope">Gyroscope Activity</string>
+    <string name="title_activity_call_logs">Call Logs Activity</string>
+    <string name="title_activity_sms">Sms Activity</string>
+    <string name="title_activity_application_log">Application Log Activity</string>
+    <string name="title_activity_google_calendar">Google Calendar Activity</string>
+    <string name="title_activity_installed_application">Installed ApplicationActivity</string>
+    <string name="title_activity_choose_application_status">Choose Application Status</string>
+    <string name="title_activity_notification">Notification Activity</string>
+    <string name="MapActivity">My Places</string>
+    <string name="title_activity_context_manager">Context Manager</string>
+    <string name="title_activity_geolocation">GeolocationActivity</string>
+    <string name="title_activity_eventfull_class1">EventfullClass1</string>
+    <string name="title_activity_choose_transport_mode">ChooseTransportMode</string>
+    <string name="title_activity_publicTransportActivity">PublicTransportActivity</string>
+    <string name="title_activity_instruction">InstructionActivity</string>
+    <string name="wait">Event Activity</string>
+    <string name="Eventmessage">Connecting to Eventful...</string>
+</resources>
