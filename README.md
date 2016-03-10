@@ -1,5 +1,5 @@
 # TestDiploma
-This is prototype application within the context of the my MSc thesis. It has several modules/rules, rules that  are based upon 
+This is prototype application within the context of my MSc thesis. It has several modules/rules, rules that are based upon 
 the daily use of the device and are intended to help the user. Considering the continuous hustle that a regular user undergoes, 
 we seek to release him from these routine movements. Examples:
 1)	If user is at home, then change the ringtone volume to mute and enable vibration: Detecting the smartphone’s location 
