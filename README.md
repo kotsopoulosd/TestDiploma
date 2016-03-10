@@ -6,11 +6,11 @@ we seek to release him from these routine movements. Examples:
 and the time of the departure we enable this rule in order to decrease the volume of the device and also enable the vibration.
 2)	If user is at meeting then set device on Meeting Mode: Detecting the smartphone’s location and the calendar events 
 we enable this rule in order to mute the device and also enable the vibration. At the same time we disable the communication via calls.
-3)	If user leaves the office, then provide him a tool to organize his/hers commuting. De-tecting the smartphone’s location and 
+3)	If user leaves the office, then provide him a tool to organize his/hers commuting. Detecting the smartphone’s location and 
 the exit time we enable this rule in order to create a connection with an 
 external Google API to consume the current Public Transport directions based on user’s location.
 4)	 If user leaves the office, then notify him about current events in city. 
-Detecting the smartphone’s location and the exit time we enable this rule in order to create a con-nection with an external 
+Detecting the smartphone’s location and the exit time we enable this rule in order to create a connection with an external 
 API (Eventfull API) to consume the events based on user’s location.
 5)	If a caller belongs to top three callers and Rule 4 is applied then notify caller via sms that user is at meeting. 
 Detecting the call log file daily, we enable this rule in order to send a sms message inform caller that user is at meeting.
